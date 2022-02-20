@@ -1,0 +1,30 @@
+.avatar {
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    margin-top: 10px;
+}
+
+.avatar-box {
+    text-align: center;
+}
+
+.mini-post{
+    width: 100%;
+    height: 220px;
+}
+
+.carousel-img {
+    width: 100%;
+    height: 360px;
+}
+
+.post-icerik{
+    background-color: whitesmoke;
+    height: 250px;
+}
+
+.footer-row{
+    height: 180px;
+    padding-top: 20px;
+}
